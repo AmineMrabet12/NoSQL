@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+pymongo==4.10.1
+neo4j==5.27.0
+redis==5.0.8
