@@ -1,7 +1,10 @@
 # Basketball Database Project
-*This project is maid by `Amine Mrabet` and `Vinay Kumar`*
 
 This project connects to a MongoDB database and inserts basketball player, coach, team, and relationship data. The database is structured into collections for players, coaches, teams, and relationships, with various data on players' details, coaches' assignments, team rosters, and the relationships between players, coaches, and teams.
+
+## Team members
+- Mohamed Amine Mrabet
+- Vinay Kumar
 
 ## Requirements
 
@@ -195,3 +198,11 @@ This code explanation is related to the notebook under  `notebooks/ > redis.ipyn
     3. Retrieving Data from Redis:
 
         - The `get_player_from_cache` function checks if player data is already cached in Redis. If cached, it returns the data; otherwise, it returns None.
+
+## Technologies Used
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor)
+![Neo4j](https://img.shields.io/badge/Neo4j-5.27.0-blue?logo=neo4j&logoColor)
+![Redis](https://img.shields.io/badge/Redis-5.0.8-red?logo=redis&logoColor)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-blu?logo=mongodb&logoColor)
+![pymongo](https://img.shields.io/badge/pymongo-4.10.1-blu?logo=mongodb&logoColor)
+![dotenv](https://img.shields.io/badge/dotenv-1.0.1-yellow?logo=dotenv&logoColor)
