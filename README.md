@@ -1,4 +1,5 @@
 # Basketball Database Project
+*This project is maid by `Amine Mrabet` and `Vinay Kumar`*
 
 This project connects to a MongoDB database and inserts basketball player, coach, team, and relationship data. The database is structured into collections for players, coaches, teams, and relationships, with various data on players' details, coaches' assignments, team rosters, and the relationships between players, coaches, and teams.
 
